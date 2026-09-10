@@ -187,6 +187,18 @@ Questo tipo di funzionalità ha richiesto gestione degli identificativi, interro
 
 ---
 
+## Struttura del codice
+
+Il progetto è organizzato in più risorse e moduli separati, con componenti dedicati a funzionalità differenti.
+
+La struttura comprende script lato client e lato server, file di configurazione, interfacce HTML/CSS/JavaScript e risorse specifiche per i diversi sistemi della piattaforma.
+
+Questa organizzazione modulare consente di mantenere separate le diverse aree funzionali e di intervenire più facilmente su sviluppo, manutenzione e debugging.
+
+![Struttura del codice e delle risorse](assets/09-codice.png)
+
+---
+
 ## Database e gestione dei dati
 
 Il database rappresenta una parte centrale dell'architettura di Death Freeroam.
