@@ -448,4 +448,4 @@ Fondatore e Lead Developer — Death Freeroam
 
 - LinkedIn: [Simone Marino](https://www.linkedin.com/in/simone-marino-2a5140226/)
 - GitHub: [blackbhul](https://github.com/blackbhul)
-- Sito Death Freeroam: *inserire qui il collegamento al sito ufficiale*
+- Sito Death Freeroam: [DTF Sitie](https://deathfreeroam.it/)
